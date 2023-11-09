@@ -1,0 +1,6 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+lib/bin/main/woven-respect-379814-cd7c85aa3113.json
